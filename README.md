@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Padma-Pujari
 - 👀 I’m very much interested in Web Development
 - 🌱 I’m currently learning HTML CSS JAVASCRIPT
-- 📫 How to reach me 👀 :email: padma.pujari14@gmail.com.com
+- 📫 How to reach me 👀 :email: padmapujari14@gmail.com
 
 
 <!---
